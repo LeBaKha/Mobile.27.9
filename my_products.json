@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "product_id": "1",
+            "product_name": "Nike Air Max 90",
+            "product_image": "https:\/\/example.com\/nike-air-max-90.jpg",
+            "product_description": "Nike Air Max 90 là một trong những mẫu giày thể thao nổi tiếng của hãng Nike. Được ra mắt lần đầu vào năm 1990, Air Max 90 có thiết kế độc đáo với công nghệ Air Max của Nike, giúp cung cấp đệm êm ái cho bàn chân. Sản phẩm này có nhiều phiên bản và màu sắc khác nhau, và nó đã trở thành biểu tượng trong thế giới thời trang và giày thể thao. Giày Nike Air Max 90 phù hợp cho cả việc thể thao và sử dụng hàng ngày."
+        },
+        {
+            "product_id": "2",
+            "product_name": "Adidas Ultraboost",
+            "product_image": "https:\/\/example.com\/adidas-ultraboost.jpg",
+            "product_description": "Adidas Ultraboost là một dòng sản phẩm giày chạy bộ đỉnh cao của hãng thể thao Adidas. Được ra mắt lần đầu vào năm 2015, Ultraboost được thiết kế với sự kết hợp hoàn hảo giữa kiểu dáng thời trang và hiệu suất tốt nhất. Sản phẩm này sử dụng công nghệ Boost của Adidas, cung cấp sự đàn hồi và đệm tốt cho các hoạt động thể thao. Ultraboost đã trở thành lựa chọn hàng đầu cho các vận động viên và người yêu giày thể thao trên khắp thế giới."
+        }
+    ]
+}
